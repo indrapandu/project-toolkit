@@ -1,13 +1,22 @@
-# Project Toolkit
+![project-toolkit](assets/project-toolkit.svg)
 
-A place for practical templates, examples, and insights on project controls, planning, reporting, and automation. I’ll also use it to share supporting material for my LinkedIn posts.
+Practical templates, tools, examples, and guides for everyday project work.
 
-## What to expect
+## Focus areas
 
-- Templates and examples for project planning, progress tracking, and reporting.
-- Practical guides and slide decks on project controls.
-- Automation tools and examples for repetitive project tasks.
+- **Planning & project controls:** scheduling, progress tracking, and reporting.
+- **Data analysis:** Excel, Power BI, and practical data workflows.
+- **Automation:** simplifying repetitive tasks.
 
-This repository is just getting started. I’ll add files over time.
+Resources will be added over time. Use them as a starting point and adapt them to your needs.
 
-Use the material as a starting point and adapt it to your project.
+## Download
+
+- **Entire toolkit:** [Download ZIP](https://github.com/indrapandu/project-toolkit/archive/refs/heads/main.zip), or select **Code → Download ZIP**, then extract the folder.
+- **One file:** Open the file and click the download icon. Keep its original file extension.
+
+Read each resource's instructions and software requirements before use.
+
+## Connect
+
+**Indra Pandu Prasetyo** · [LinkedIn](https://www.linkedin.com/in/indrapandu) · [GitHub](https://github.com/indrapandu)
