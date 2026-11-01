@@ -2,7 +2,7 @@
 
 Explore a Primavera P6 XER schedule in your browser: WBS, activity table, relationships, and Gantt chart in one view.
 
-![M100 selected, with Gantt relationships and the activity details pane](preview.png)
+![M100 selected, with Gantt relationships and the activity details pane](media/preview.png)
 
 *Select an activity to inspect its dates, duration, float, predecessors, and successors alongside the Gantt chart.*
 
@@ -43,9 +43,5 @@ The configured import limit is 128 MiB, or 8 MiB without local Web Worker suppor
 Tested in Chrome/ Edge on Windows using the supplied sample: import, WBS controls, search, float filtering, activity details, link tracking, zoom, resizing, invalid-file handling, HTML download/reopening, and Excel download. No application JavaScript errors or HTTP/HTTPS requests occurred in the tested local viewer workflows. Excel ZIP/XML structure and exported values were checked.
 
 Other browsers and large-file capacity remain untested.
-
-## Cover assets
-
-[Editable PowerPoint](media/p6-xer-viewer-cover.pptx) · [PNG preview](media/p6-xer-viewer-cover.png)
 
 Created by [Indra Pandu Prasetyo](https://www.linkedin.com/in/indrapandu).
