@@ -12,7 +12,7 @@ Practical templates, tools, examples, and guides for everyday project work.
 
 | Resource | Purpose |
 |---|---|
-| [P6 XER Viewer Gantt Chart](tools/p6-xer-viewer/) | Explore and share Primavera P6 schedules in your browser. |
+| [P6 XER Viewer Gantt Chart](tools/p6-xer-viewer/) | Open and share Primavera P6 XER file schedule in your browser. |
 
 Use these resources as a starting point and adapt them to your needs.
 
