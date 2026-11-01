@@ -2,7 +2,9 @@
 
 Explore a Primavera P6 XER schedule in your browser: WBS, activity table, relationships, and Gantt chart in one view.
 
-![Viewer showing the fictional demonstration schedule](preview.png)
+![M100 selected, with Gantt relationships and the activity details pane](preview.png)
+
+*Select an activity to inspect its dates, duration, float, predecessors, and successors alongside the Gantt chart.*
 
 ## Quick start
 
