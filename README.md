@@ -8,7 +8,13 @@ Practical templates, tools, examples, and guides for everyday project work.
 - **Data analysis:** Excel, Power BI, and practical data workflows.
 - **Automation:** simplifying repetitive tasks.
 
-Resources will be added over time. Use them as a starting point and adapt them to your needs.
+## Tools
+
+| Resource | Purpose |
+|---|---|
+| [P6 XER Viewer Gantt Chart](tools/p6-xer-viewer/) | Explore and share Primavera P6 schedules in your browser. |
+
+Use these resources as a starting point and adapt them to your needs.
 
 ## Download
 
@@ -20,3 +26,4 @@ Read each resource's instructions and software requirements before use.
 ## Connect
 
 **Indra Pandu Prasetyo** · [LinkedIn](https://www.linkedin.com/in/indrapandu) · [GitHub](https://github.com/indrapandu)
+
