@@ -24,9 +24,9 @@ Try [sample.xer](sample.xer) first. It contains 24 fictional activities across e
 
 | Export | What it contains |
 |---|---|
-| **HTML — Full schedule** | All imported activities, including those hidden by filters or collapsed WBS groups. |
-| **HTML — Filtered subset** | Current results, including pinned activities, and relationships between included activities. |
-| **Excel — Results + link context** | Schedule tables, normalized data, relationships, and export information. No Gantt graphics. |
+| **HTML - Full schedule** | All imported activities, including those hidden by filters or collapsed WBS groups. |
+| **HTML - Filtered subset** | Current results, including pinned activities, and relationships between included activities. |
+| **Excel - Results + link context** | Schedule tables, normalized data, relationships, and export information. No Gantt graphics. |
 
 Exported HTML includes schedule data and can be reopened without the original XER. Review it before sharing. Excel can also include linked activity identifiers outside your results and diagnostics from the full imported schedule.
 
@@ -40,9 +40,8 @@ The configured import limit is 128 MiB, or 8 MiB without local Web Worker suppor
 
 ## Verification
 
-Tested in Chrome 156 on Windows using the supplied sample: import, WBS controls, search, float filtering, activity details, link tracking, zoom, resizing, invalid-file handling, HTML download/reopening, and Excel download. No application JavaScript errors or HTTP/HTTPS requests occurred in the tested local viewer workflows. Excel ZIP/XML structure and exported values were checked.
+Tested in Chrome/ Edge on Windows using the supplied sample: import, WBS controls, search, float filtering, activity details, link tracking, zoom, resizing, invalid-file handling, HTML download/reopening, and Excel download. No application JavaScript errors or HTTP/HTTPS requests occurred in the tested local viewer workflows. Excel ZIP/XML structure and exported values were checked.
 
-Other browsers, large-file capacity, native P6 import, and desktop Excel rendering remain untested.
+Other browsers and large-file capacity remain untested.
 
 Created by [Indra Pandu Prasetyo](https://www.linkedin.com/in/indrapandu).
-
