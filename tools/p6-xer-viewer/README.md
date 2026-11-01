@@ -8,7 +8,7 @@ Explore a Primavera P6 XER schedule in your browser: WBS, activity table, relati
 
 ## Quick start
 
-1. Download [index.html](index.html) using GitHub's **Download raw file** button, or extract the repository ZIP.
+1. Download [P6 XER Viewer.html](P6%20XER%20Viewer.html) using GitHub's **Download raw file** button, or extract the repository ZIP.
 2. Open the downloaded HTML in a desktop browser.
 3. Click **Import XER** and select your `.xer` file, or drag it into the viewer.
 

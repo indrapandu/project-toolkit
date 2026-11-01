@@ -6,7 +6,7 @@
 
 ## P6 XER Viewer Gantt Chart
 
-Source: supplied `P6 XER Viewer.html`, packaged unchanged as `index.html`.
+Source: supplied `P6 XER Viewer.html`, packaged unchanged under the same filename.
 SHA-256: `444b7cf6735bf9fc6daea04a782c856d6a134f537174fc95a8b8b2b337f639ce`.
 
 Approved LinkedIn text (1 November 2026). Ready for manual publication; no LinkedIn publication has been confirmed.
