@@ -44,4 +44,8 @@ Tested in Chrome/ Edge on Windows using the supplied sample: import, WBS control
 
 Other browsers and large-file capacity remain untested.
 
+## Cover assets
+
+[Editable PowerPoint](media/p6-xer-viewer-cover.pptx) · [PNG preview](media/p6-xer-viewer-cover.png)
+
 Created by [Indra Pandu Prasetyo](https://www.linkedin.com/in/indrapandu).
